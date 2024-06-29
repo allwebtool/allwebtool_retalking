@@ -1,4 +1,4 @@
-call C:\Users\root\anaconda3\Scripts\activate.bat video-retalking
+call C:\Users\USER\anaconda3\Scripts\activate.bat video-retalking
 
 python webUI.py
 
